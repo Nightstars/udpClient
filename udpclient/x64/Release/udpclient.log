@@ -1,0 +1,4 @@
+﻿qtmain.lib(qtmain_win.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(main.obj 中)
+qtmain.lib(qtmain_win.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MTd_StaticDebug”(main.obj 中)
+LIBCMTD.lib(initializers.obj) : warning LNK4098: 默认库“msvcrt.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+E:\visual studio\udpclient\x64\Release\\udpclient.exe : fatal error LNK1319: 检测到 2 个不匹配项
